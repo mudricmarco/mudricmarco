@@ -51,10 +51,8 @@ First-year Computer Science student. I'm mainly interested in operating systems,
   <a href="https://discord.com/users/mudricmarco" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mudricmarco&color=ff4444&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mudricmarco&color=ff4444&style=flat-square" alt="Profile Views">
 </p>
 
 <br clear="both" />
