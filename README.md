@@ -39,7 +39,7 @@ First-year Computer Science student. I'm mainly interested in operating systems,
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/marco-mudric" target="_blank">
+  <a href="https://www.linkedin.com/in/marco-mudric-240639266" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/mudricmarco" target="_blank">
