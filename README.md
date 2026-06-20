@@ -30,7 +30,7 @@ First-year Computer Science student. I'm mainly interested in operating systems,
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudricmarco&show_icons=true&theme=tokyonight&title_color=ff4444&icon_color=ff4444&text_color=c0caf5&bg_color=1a1b26&count_private=true" alt="My Stats" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudricmarco&layout=compact&theme=tokyonight&title_color=ff4444&icon_color=ff4444&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mudricmarco&show_icons=true&theme=tokyonight&title_color=ff4444&icon_color=ff4444&text_color=c0caf5&bg_color=1a1b26&count_private=true" alt="My Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudricmarco&layout=compact&theme=tokyonight&title_color=ff4444&icon_color=ff4444&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" />
 </p>
 
 ---
