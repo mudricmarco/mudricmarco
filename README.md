@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋
 
-First-year Computer Science student. I'm mainly interested in operating systems, low-level development, and systems architecture.
+Second-year Computer Science student. I'm mainly interested in operating systems, low-level development, and systems architecture.
 
 ---
 
